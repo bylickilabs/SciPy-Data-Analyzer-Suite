@@ -47,7 +47,7 @@ This Code of Conduct applies within all project spaces – including GitHub repo
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by:
 
-📧 Email: [conduct@bylickilabs.com](mailto:bylicki@mail.de)  
+📧 Email: [EMAIL](mailto:bylicki@mail.de)  
 🔐 GitHub: [Security Contact Form](https://github.com/bylickilabs/SciPy-Data-Analyzer-Suite/security)
 
 All complaints will be reviewed and investigated confidentially.
