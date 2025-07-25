@@ -17,7 +17,6 @@ If you discover a security vulnerability, please **do not open a public issue**.
 
 Instead, report it privately to the maintainer:
 
-- 📧 Email: security@bylickilabs.com *(or your contact address)*
 - 🛡️ GitHub Security Advisory: [Submit Report](https://github.com/bylickilabs/SciPy-Data-Analyzer-Suite/securit/advisories)
 
 Please include:
