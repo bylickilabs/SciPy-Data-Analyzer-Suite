@@ -1,3 +1,6 @@
+|[![Python Build](https://github.com/bylickilabs/SciPy-Data-Analyzer-Suite/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/SciPy-Data-Analyzer-Suite/actions/workflows/main.yml)|
+|---|
+
 # SciPy-Data-Analyzer-Suite
 
 |<img width="1280" height="640" alt="SciPy" src="https://github.com/user-attachments/assets/7f84889c-e67c-4ba4-a38b-770669326a31" />|
