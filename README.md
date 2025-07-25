@@ -8,6 +8,21 @@
 
 ---
 
+## ✅ Python Compatibility
+
+This project is fully compatible with the following Python versions:
+
+| Version  | Status       |
+|----------|--------------|
+| 3.8      | ✅ Supported |
+| 3.9      | ✅ Supported |
+| 3.10+    | ⚠️ Untested  |
+| <3.8     | ❌ Not supported |
+
+> ✅ Tested and verified using GitHub Actions with `setup-python` and runtime environments for Python 3.8 and 3.9.
+
+---
+
 ## 🌟 Key Features
 
 - ✅ **CSV Data Import** with automatic error handling.
