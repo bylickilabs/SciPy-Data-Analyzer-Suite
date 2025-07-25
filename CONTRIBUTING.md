@@ -86,7 +86,7 @@ Have an idea? Open a new issue tagged `enhancement` and describe:
 ## 📄 License
 
 By contributing, you agree that your code will be released under the MIT License.  
-See [LICENSE](../LICENSE) for more details.
+See [LICENSE](LICENSE) for more details.
 
 ---
 
