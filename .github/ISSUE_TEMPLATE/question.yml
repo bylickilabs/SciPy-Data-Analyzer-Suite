@@ -1,0 +1,14 @@
+name: General question or feedback
+description: Ask a question or provide feedback
+title: "[DISCUSSION] "
+labels: [question]
+assignees: []
+
+body:
+  - type: textarea
+    id: content
+    attributes:
+      label: What would you like to ask or share?
+      placeholder: Your message or feedback...
+    validations:
+      required: true
