@@ -116,7 +116,7 @@ Edit this file or replace it with your own data. Note that the `value` column co
 ---
 
 ## MIT LICENSE
-[LICNEKSE](LICNESE)
+[LICENSE](LICENSE)
 
 ---
 
